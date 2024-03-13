@@ -3,7 +3,7 @@ Espero que esteja tendo um ótimo dia!
 - 🌱 Estudando Python, Javascript, typescript e Java
 - 😄 Pronomes: ele/dele
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/TheoMss/TheoMss/assets/Black Technology LinkedIn Banner.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/TheoMss/TheoMss/assets/Banner.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Making technology to improve the world!❤ <br><br> From back-end to front-end, I work to develop myself every day. I am <strong>Passionate about solving problems</strong> and create creative and efficient solutions. 
