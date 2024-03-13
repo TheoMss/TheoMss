@@ -3,7 +3,7 @@ Espero que esteja tendo um ótimo dia!
 - 🌱 Estudando Python, Javascript, typescript e Java
 - 😄 Pronomes: ele/dele
 
-![Header](./assets/Banner.png)
+![Header](./assets/BannerGit.png)
 
 <p align="center">Making technology to improve the world!❤ <br><br> From back-end to front-end, I work to develop myself every day. I am <strong>Passionate about solving problems</strong> and create creative and efficient solutions. 
  
